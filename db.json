@@ -44,15 +44,6 @@
       "id": 9,
       "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
       "author": "Confucius"
-    },
-    {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
-      "quoteId": 2,
-      "id": 11
     }
   ],
   "likes": [
@@ -60,6 +51,106 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 2,
+      "id": 2
+    },
+    {
+      "quoteId": 3,
+      "id": 3
+    },
+    {
+      "quoteId": 1,
+      "id": 4
+    },
+    {
+      "quoteId": 2,
+      "id": 5
+    },
+    {
+      "quoteId": 2,
+      "id": 6
+    },
+    {
+      "quoteId": 3,
+      "id": 7
+    },
+    {
+      "quoteId": 4,
+      "id": 8
+    },
+    {
+      "quoteId": 3,
+      "id": 9
+    },
+    {
+      "quoteId": "1",
+      "id": 10
+    },
+    {
+      "quoteId": "1",
+      "id": 11
+    },
+    {
+      "quoteId": "1",
+      "id": 12
+    },
+    {
+      "quoteId": "1",
+      "id": 13
+    },
+    {
+      "quoteId": "1",
+      "id": 14
+    },
+    {
+      "quoteId": "1",
+      "id": 15
+    },
+    {
+      "quoteId": 1,
+      "id": 16
+    },
+    {
+      "quoteId": 1,
+      "id": 17
+    },
+    {
+      "quoteId": 1,
+      "id": 18
+    },
+    {
+      "quoteId": 1,
+      "id": 19
+    },
+    {
+      "quoteId": 1,
+      "id": 29
+    },
+    {
+      "quoteId": 1,
+      "id": 30
+    },
+    {
+      "quoteId": 1,
+      "id": 31
+    },
+    {
+      "quoteId": 1,
+      "id": 32
+    },
+    {
+      "quoteId": 2,
+      "id": 33
+    },
+    {
+      "quoteId": 1,
+      "id": 34
+    },
+    {
+      "quoteId": 1,
+      "id": 35
     }
   ]
 }
